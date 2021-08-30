@@ -1,4 +1,12 @@
-# 👨🏾‍💻 Tiago Assunção === software engineering enthusiast
+<h1 align="center">
+ 👨🏾‍💻 Tiago Assunção === software engineering enthusiast
+</h1>
+ 
+<p align="center">
+  <a href="https://github.com/tiagoassunc/github-readme-streak-stats">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoassunc&theme=tokyonight_duo&hide_border=true" />
+  </a>
+</p> 
 
 ## Database
 
@@ -19,5 +27,6 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /> <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
 
 ## My stats
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoassunc&show_icons=false&theme=tokyonight&hide_title=true&disable_animations=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoassunc&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoassunc&layout=compact&theme=tokyonight)](https://github.com/tiagoassunc/github-readme-stats)
