@@ -1,5 +1,5 @@
 <h1 align="center">
- 👨🏾💻 Tiago Assunção === software engineering enthusiast
+ 🧑🏾‍💻 Tiago Assunção === software engineering enthusiast
 </h1>
  
 <p align="center">
