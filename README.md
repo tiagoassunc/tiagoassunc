@@ -29,7 +29,7 @@
 <br>
 
 <h2 align="center">
- My Stats
+ My Stats 
 </h2>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoassunc&show_icons=false&theme=tokyonight&hide_title=true&disable_animations=true)
