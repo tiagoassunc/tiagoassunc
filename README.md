@@ -1,12 +1,12 @@
 <h1 align="center">
  🧑🏾‍💻 Tiago Assunção
 </h1>
- 
-<p align="center">
-  <a href="https://github.com/tiagoassunc/github-readme-streak-stats">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoassunc&theme=tokyonight_duo&hide_border=true" />
+
+ <p align="center">
+  <a href="https://streak-stats.demolab.com?user=tiagoassunc&theme=tokyonight_duo&hide_border=true">
+   <img src="https://streak-stats.demolab.com?user=tiagoassunc&theme=tokyonight_duo&hide_border=true" />
   </a>
-</p> 
+</p>
 
 ## Database
 
@@ -38,6 +38,7 @@
 <h2 align="center">
  My Stats 
 </h2>
- 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoassunc&show_icons=false&theme=tokyonight&hide_title=true&disable_animations=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoassunc&layout=compact&theme=tokyonight)](https://github.com/tiagoassunc/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoassunc&layout=compact&theme=tokyonight)](https://github.com/tiagoassunc/github-readme-stats)
+
