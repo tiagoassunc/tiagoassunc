@@ -2,11 +2,7 @@
  🧑🏾‍💻 Tiago Assunção
 </h1>
 
- <p align="center">
-  <a href="https://streak-stats.demolab.com?user=tiagoassunc&theme=tokyonight_duo&hide_border=true">
-   <img src="https://streak-stats.demolab.com?user=tiagoassunc&theme=tokyonight_duo&hide_border=true" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tiagoassunc)](https://git.io/streak-stats)
 
 ## Database
 
