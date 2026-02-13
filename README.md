@@ -39,6 +39,6 @@
  My Stats 
 </h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoassunc&show_icons=false&theme=tokyonight&hide_title=true&disable_animations=true)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoassunc&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoassunc&layout=compact&theme=tokyonight)](https://github.com/tiagoassunc/github-readme-stats)
 
